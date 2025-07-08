@@ -1,4 +1,4 @@
-# About Me 👋
+# Hi there, I'm Tanmay Kamble 👋
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1_1p5mRMw2OOprx7GWtPJ0qU7NxJqNNjE" alt="Tanmay Kamble" width="300" style="border-radius: 70%;"/>
 </div>
