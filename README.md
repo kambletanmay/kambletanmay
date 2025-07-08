@@ -1,16 +1,136 @@
-## Hi there 👋
+# Hi there, I'm Tanmay Kamble 👋
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1_1p5mRMw2OOprx7GWtPJ0qU7NxJqNNjE" alt="Tanmay Kamble" width="300" style="border-radius: 70%;"/>
+</div>
 
-<!--
-**kambletanmay/kambletanmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Data Engineer/Data Analyst** and **Analytics Professional** specializing in building robust data pipelines, advanced analytics frameworks, and business intelligence solutions. Currently pursuing my Master's in Information Systems at Syracuse University, I excel at transforming complex datasets into actionable insights that drive strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience spanning **healthcare analytics**, **gaming market research**, **financial portfolio optimization**, and **UAV data systems**, I'm passionate about leveraging data to solve real-world challenges and optimize business performance.
+
+🌟 **What I'm passionate about:**
+- Building scalable ETL pipelines and data warehousing solutions
+- Developing advanced analytics frameworks for multi-channel attribution
+- Creating interactive dashboards that empower data-driven decision making
+- Implementing machine learning models for predictive analytics and customer segmentation
+
+## 🛠️ Technical Arsenal
+
+### Programming & Database
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn) • Advanced SQL • PostgreSQL • MySQL • Database Design**
+
+### Data Science & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**EDA • A/B Testing • Statistical Modeling • Predictive Modeling • Time Series Analysis • NLP • Customer Segmentation**
+
+### Business Intelligence & Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Tableau • Power BI (DAX, Power Query) • Looker • Google Data Studio • QlikView • Advanced Analytics**
+
+### Cloud & DevOps Platforms
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+**AWS (S3, EC2, Glue, IAM) • Azure (Data Lake, Azure ML) • GCP • Apache Airflow • ETL Pipeline Development**
+
+### Development Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+
+**RStudio • Shiny • Jupyter Notebook • Git • Agile & Scrum • Technical Documentation**
+
+## 🔭 Current Projects & Experience
+
+### 📊 Healthcare Data Engineering & Analytics
+**Data Engineer Intern @ IConsult Collaborative** | *Jan 2025 - May 2025*
+- Developed comprehensive marketing measurement frameworks processing **20,000+ physician records**
+- Built predictive models using Python and advanced SQL optimization for market positioning strategies
+- Automated multi-touch attribution pipelines reducing **manual reporting time by 40%**
+
+### 🎮 Gaming Market Research & Analytics
+**Data Analyst Intern @ Mobaltyics** | *Mar 2024 - May 2024*
+- Led marketing attribution analysis processing **millions of player engagement records**
+- Increased **user engagement by 30%** through data-driven campaign optimization strategies
+- Built interactive dashboards reducing **manual reporting efforts by 20%** and improving **marketing ROI by 15%**
+
+### 🚁 AI-Driven UAV Analytics & Emergency Response
+**Senior Data Analyst @ Autobot Dynamics** | *May 2022 - May 2023*
+- Designed AI-powered marketing measurement systems using advanced data modeling frameworks
+- Developed comprehensive end-to-end marketing data pipelines using Python and MATLAB
+- Built dynamic Tableau dashboards reducing **data processing latency by 35%**
+
+### 💹 Financial Portfolio Optimization & Risk Analytics
+**Financial Data Analyst @ Syracuse University** | *Jul 2024 - Dec 2024*
+- Engineered advanced measurement frameworks processing **5+ years of historical market data**
+- Implemented Modern Portfolio Theory and risk analytics for data-driven insights
+- Created real-time performance dashboards using Python and advanced Excel analytics
+
+### 🏥 AI-Powered Healthcare Risk Analytics
+**Data Analyst @ Syracuse University** | *Mar 2024 - May 2024*
+- Developed predictive models achieving **20% reduction in customer acquisition costs**
+- Built HIPAA-compliant data pipelines using AWS S3, EC2, and IAM
+- Improved **campaign targeting accuracy by 35%** using Azure ML and Python
+
+## 🎓 Education
+
+**Master of Science - Information Systems** | *Syracuse University* | *Aug 2023 - May 2025*
+- Focus: Database Management, Data Science, Information Technology Management
+
+**Bachelor of Engineering - Electronics & Computer Science** | *University of Mumbai* | *July 2019 - May 2022*
+- Focus: Data Structures, AI/ML, Cybersecurity, Neural Networks, Cloud Computing
+
+
+## 🏆 Key Achievements
+
+- **40% reduction** in manual reporting time through automated attribution pipelines
+- **35% improvement** in campaign targeting accuracy using predictive modeling
+- **30% increase** in user engagement through data-driven optimization strategies
+- **25% improvement** in campaign targeting accuracy using machine learning algorithms
+- **20% reduction** in customer acquisition costs through predictive healthcare models
+- **15% increase** in marketing ROI through advanced performance measurement frameworks
+
+## 🌱 Currently Learning
+
+- Advanced Cloud Data Engineering on AWS and Azure
+- Real-time Data Streaming with Apache Kafka
+- MLOps and Model Deployment Best Practices
+- Advanced Statistical Modeling and Causal Inference
+
+## 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/-tanmayrkamble26@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanmayrkamble26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+
+📍 **Location:** Atlanta, GA (Open to Relocation)  
+📱 **Phone:** (315) 395-4961  
+🇺🇸 **Work Authorization:** Authorized to work in the U.S.
+
+---
+
+### 💡 Fun Facts
+- 🎵 Former President of Apaches Music Team, led 35+ members and organized virtual fundraising concerts
+- 📊 Passionate about turning complex datasets into compelling stories
+- 🎯 Always looking for opportunities to optimize data pipelines and improve analytics performance
+- 🌟 Believer in the power of data-driven decision making to transform businesses
+
+---
+
+*"Transforming data into insights, one pipeline at a time."*
