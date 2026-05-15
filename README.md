@@ -5,13 +5,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Engineer/Data Analyst** and **Analytics Professional** specializing in building robust data pipelines, advanced analytics frameworks, and business intelligence solutions. Currently pursuing my Master's in Information Systems at Syracuse University, I excel at transforming complex datasets into actionable insights that drive strategic decision-making.
+I'm a passionate **Data Engineer/Data Analyst** building **full-stack analytics platforms** - from ETL pipelines and data warehousing solutions to interactive dashboards and API services. Currently pursuing my Master's in Information Systems at Syracuse University, I excel at transforming complex datasets into actionable insights that drive strategic decision-making.
 
 With experience spanning **healthcare analytics**, **gaming market research**, **financial portfolio optimization**, and **UAV data systems**, I'm passionate about leveraging data to solve real-world challenges and optimize business performance.
 
 🌟 **What I'm passionate about:**
 - Building scalable ETL pipelines and data warehousing solutions
 - Developing advanced analytics frameworks for multi-channel attribution
+- Engineering end-to-end data products - from FastAPI backends to React analytics dashboards
 - Creating interactive dashboards that empower data-driven decision making
 - Implementing machine learning models for predictive analytics and customer segmentation
 
@@ -46,6 +47,8 @@ With experience spanning **healthcare analytics**, **gaming market research**, *
 ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 **AWS (S3, EC2, Glue, IAM) • Azure (Data Lake, Azure ML) • GCP • Apache Airflow • ETL Pipeline Development**
 
@@ -55,6 +58,41 @@ With experience spanning **healthcare analytics**, **gaming market research**, *
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
 **RStudio • Shiny • Jupyter Notebook • Git • Agile & Scrum • Technical Documentation**
+
+### Web Frameworks & APIs
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Recharts](https://img.shields.io/badge/-Recharts-FF6384?style=flat-square&logoColor=white)
+
+**FastAPI • Pydantic • RESTful API Design • React + Vite • Tailwind CSS • Framer Motion • Recharts • OpenAPI/Swagger**
+
+## 🌟 Featured Project
+
+### 🎵 [Pulse — Streaming Intelligence Platform](https://github.com/kambletanmay/pulse)
+
+> **A Cyber-Noir analytics terminal that turns global Spotify streams data into a Bloomberg-style intelligence dashboard.**
+
+<div align="center">
+  <a href="https://github.com/kambletanmay/pulse">
+    <img src="https://github.com/kambletanmay/pulse/raw/main/assets/pulse-banner.svg" alt="Pulse Banner" width="100%"/>
+  </a>
+</div>
+
+**🔗 [Live Demo](https://pulse-xxxx.vercel.app) · [GitHub Repo](https://github.com/kambletanmay/pulse) · [API Docs](https://your-pulse-backend.onrender.com/docs)**
+
+A full-stack streaming-analytics platform built on a 2,500-track global Spotify dataset. Computes proprietary **Momentum** and **Velocity** metrics, surfaces breakout tracks, and generates LLM-ready *market vibe* summaries — all wrapped in a custom Cyber-Noir design system.
+
+**Key Engineering Highlights:**
+- 🏗️ **Two-tier architecture** — stateless FastAPI backend + React/Vite frontend, deploying independently on every `git push`
+- ⚡ **Vectorized pandas analytics layer** with `lru_cache`-backed dataset loading for sub-millisecond repeat reads
+- 🛡️ **Graceful degradation** — frontend falls back to embedded seed data if the API is unreachable, UI never breaks
+- 🤖 **LLM-swap-ready agentic layer** — structured `vibe / headline / drivers / confidence` response shape
+- 🎨 **Custom design system** — Cyber-Noir aesthetic with Framer Motion, Recharts treemaps, and animated SVG hero banner
+
+**Stack:** `FastAPI` `Pydantic` `pandas` `React 18` `Vite` `Tailwind` `Framer Motion` `Recharts` `Render` `Vercel`
 
 ## 🔭 Current Projects & Experience
 
