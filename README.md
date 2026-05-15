@@ -81,7 +81,7 @@ With experience spanning **healthcare analytics**, **gaming market research**, *
   </a>
 </div>
 
-**🔗 [Live Demo](https://pulse-xxxx.vercel.app) · [GitHub Repo](https://github.com/kambletanmay/pulse) · [API Docs](https://your-pulse-backend.onrender.com/docs)**
+**🔗 [Live Demo](https://pulse-opal-omega.vercel.app/) · [GitHub Repo](https://github.com/kambletanmay/pulse) · [API Docs](https://pulse-9t12.onrender.com)**
 
 A full-stack streaming-analytics platform built on a 2,500-track global Spotify dataset. Computes proprietary **Momentum** and **Velocity** metrics, surfaces breakout tracks, and generates LLM-ready *market vibe* summaries — all wrapped in a custom Cyber-Noir design system.
 
